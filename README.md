@@ -36,11 +36,15 @@ Follow the on-screen instructions:
 Enter your name.
 Choose menu items (1-4) and confirm if you want to add more items.
 After you are done, the program will show the total bill and the order summary.
+
 🧩 Code Structure
+
 display_menu(): Displays the available menu items and their prices.
 take_order(): Prompts the user for their name, takes their order, and calculates the total bill.
 Main Loop: The main loop allows users to keep adding items until they are done, and then it displays the total bill and order summary.
+
 🚀 How it works:
+
 Welcome the Customer: The user is asked to enter their name.
 Menu Display: The system displays a menu with 4 food items and their prices.
 Item Selection: The customer selects the items by entering the corresponding number (1-4).
